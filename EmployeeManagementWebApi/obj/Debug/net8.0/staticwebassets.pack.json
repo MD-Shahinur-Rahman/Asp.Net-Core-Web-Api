@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Mredul\\Project\\EmployeeManagementWebApisln\\EmployeeManagementWebApi\\wwwroot\\Upload\\Mredul.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Mredul.jpg"
+    },
+    {
+      "Id": "E:\\Mredul\\Project\\EmployeeManagementWebApisln\\EmployeeManagementWebApi\\wwwroot\\Upload\\mohipic.jpg",
+      "PackagePath": "staticwebassets\\Upload\\mohipic.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeManagementWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeManagementWebApi.props",
+      "PackagePath": "build\\EmployeeManagementWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeManagementWebApi.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManagementWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeManagementWebApi.props",
+      "PackagePath": "buildTransitive\\EmployeeManagementWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

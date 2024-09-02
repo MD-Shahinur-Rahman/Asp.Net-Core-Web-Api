@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Sn93fEJK6x4s1c9kJksh9nDcjMbldptl23Gm+HAEEsM=",
+  "Source": "EmployeeManagementWebApi",
+  "BasePath": "_content/EmployeeManagementWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagementWebApi\\wwwroot",
+      "Source": "EmployeeManagementWebApi",
+      "ContentRoot": "E:\\Mredul\\Project\\EmployeeManagementWebApisln\\EmployeeManagementWebApi\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Mredul\\Project\\EmployeeManagementWebApisln\\EmployeeManagementWebApi\\wwwroot\\Upload\\mohipic.jpg",
+      "SourceId": "EmployeeManagementWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Mredul\\Project\\EmployeeManagementWebApisln\\EmployeeManagementWebApi\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementWebApi",
+      "RelativePath": "Upload/mohipic.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\mohipic.jpg"
+    },
+    {
+      "Identity": "E:\\Mredul\\Project\\EmployeeManagementWebApisln\\EmployeeManagementWebApi\\wwwroot\\Upload\\Mredul.jpg",
+      "SourceId": "EmployeeManagementWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Mredul\\Project\\EmployeeManagementWebApisln\\EmployeeManagementWebApi\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementWebApi",
+      "RelativePath": "Upload/Mredul.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Mredul.jpg"
+    }
+  ]
+}
