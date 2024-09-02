@@ -20,6 +20,8 @@ SQL Server: As the database solution to store and manage api data Use Local Data
 ![get](https://github.com/user-attachments/assets/5b753be0-0c66-44c2-a994-43bc7413231e)
 
 ## This is DELETE Image
+![delete](https://github.com/user-attachments/assets/fdc9b0ad-f93b-4ae3-b8a6-329054be5cf7)
+
 
 
 
