@@ -18,3 +18,81 @@ SQL Server: As the database solution to store and manage api data Use Local Data
 
 ## This is Get Image
 ![get](https://github.com/user-attachments/assets/5b753be0-0c66-44c2-a994-43bc7413231e)
+
+## This is DELETE Image
+
+
+
+## Here Is GET, POST, PUT , DELETE COMMAND
+GET all
+http://localhost:5108/api/Employees
+
+POST
+http://localhost:5108/api/Employees
+---------------------------------------------------------------------------------
+[
+       {
+      
+        "EmployeeName": "Shisir"
+        "IsActive": false,
+        "Email": "shsir@gmail.com",
+        "JoinDate": "2020-01-11",
+        "ImageName": "shishir.jpg",
+        "ImgFile": "/Upload/shishir.jpg",   Select image
+        "Experiences": [
+            {
+                "ExperienceId": 0,
+                "EmployeeId": 0,
+                "Title": "Software Developer",
+                "Duration": 24
+            },
+            {
+                "ExperienceId": 0,
+                "EmployeeId": 0,
+                "Title": "Senior Developer",
+                "Duration": 12
+            }
+        ]
+    },
+]
+-----------------------------------------------------------------------------------
+
+GET by Id
+http://localhost:5108/api/Employees/1
+
+
+PUT by Id
+http://localhost:5108/api/Employees/1
+----------------------------------------------------------------------------------
+[
+    {
+      
+        "EmployeeName": "Shisir ahamed"
+        "IsActive": false,
+        "Email": "shishir@gmail.com",
+        "JoinDate": "2020-01-11",
+        "ImageName": "shishir.jpg",
+        "ImgFile": "/Upload/shishir.jpg",   (Select Image)
+        "Experiences": [
+            {
+                "ExperienceId": 0,
+                "EmployeeId": 0,
+                "Title": "Software Developer",
+                "Duration": 30
+            },
+            {
+                "ExperienceId": 0,
+                "EmployeeId": 0,
+                "Title": "junior developer",
+                "Duration": 40
+            }
+        ]
+    },
+]
+
+-----------------------------------------------------------------------
+
+DELETE By id
+http://localhost:5108/api/Employees/1
+
+
